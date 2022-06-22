@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marcus</h1>
+<h3 align="center">An aspiring data scientist</h3>
 
-<!--
-**marcustan-94/marcustan-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After graduating with a degree in pharmacy, I moved on to become an associate scientist at a food tech start-up, Hoow Foods, working specifically on research and development of plant-based foods including egg substitute, milk and cheese. During my time at Hoow Foods, I had the opportunity to understand what my data science colleagues were working on, and I was amazed at the possibilities and capabilities that data science could achieve. Hence, I decided to pivot my career towards data science and I made the decision to sign up for the data science bootcamp under Le Wagon Coding Bootcamp.
 
-Here are some ideas to get you started:
+My interests and passion lie in using data science to solve problems related to the food, pharmaceutical and environment industries. Feel free to drop me an email at **marcustanjh94@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Le Wagon Coding Bootcamp Projects
+
+#### 1. DDI - a drug drug interaction machine learning model
+For the capstone project, my team and I worked on designing a machine learning model that is capable of predicting all possible side effects of any given two drugs. The data for this project was retrieved from the twosides dataset,  This was accomplished by first calculating the chemical properties of the drugs using a dedicated Python library, `Mordred`, which is a molecular descriptor calculator. Thereafter, using Principal Component Analysis, the number of features ... TBC
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
