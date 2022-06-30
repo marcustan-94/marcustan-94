@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
 <h3 align="center">An aspiring data scientist</h3>
 
-After graduating with a degree in pharmacy, I moved on to become an associate scientist at a food tech start-up, Hoow Foods, working specifically on research and development of plant-based foods including egg substitute, milk and cheese. During my time at Hoow Foods, I had the opportunity to understand what my data science colleagues were working on, and I was amazed at the possibilities and capabilities that data science could achieve. Hence, I decided to pivot my career towards data science and I made the decision to sign up for the data science bootcamp under Le Wagon Coding Bootcamp.
+After graduating with a degree in pharmacy, I moved on to become an associate scientist at a food tech start-up, working specifically on research and development of plant-based foods. During my time there, I was exposed to what my data science colleagues were working on, and I was amazed at the possibilities and capabilities that data science could achieve. Hence, I decided to pivot my career towards data science and has recently completed a full-time data science bootcamp offered by Le Wagon.
 
-My interests and passion lie in using data science to solve problems related to the food, pharmaceutical and environment industries. Feel free to drop me an email at **marcustanjh94@gmail.com**
+My interests and passion lie in using data science to solve problems related to the food, healthcare and environment sectors. Feel free to drop me an email at **marcustanjh94@gmail.com** if you'd like to connect or ask anything!
 
 ### Le Wagon Coding Bootcamp Projects
 
 #### 1. DDI - a drug drug interaction machine learning model
-For the capstone project, my team and I worked on designing a machine learning model that is capable of predicting all possible side effects of any given two drugs. The data for this project was retrieved from the twosides dataset,  This was accomplished by first calculating the chemical properties of the drugs using a dedicated Python library, `Mordred`, which is a molecular descriptor calculator. Thereafter, using Principal Component Analysis, the number of features ... TBC
+For the Le Wagon capstone project, my team and I worked on designing a machine learning model that is capable of predicting all possible side effects of any given two drugs, using just the SMILES strings of the drugs. The data for this project was retrieved from the TWOSIDES dataset. Preprocessing and feature engineering was done to  calculate the chemical properties of the drugs. Principal Component Analysis was then performed to select the most important features. We then explored various models and eventually settled on a Random Forest Classifier model, balancing between model accuracy and time taken to train. The model was then packaged into Streamlit and deployed into Heroku as a web application, link can be found [here](https://ddi-lewagon.herokuapp.com/) (*note: if loading for the first time, please allow ~30-60 seconds for the website to load*).
+
+For full details of this project, please click [here](https://github.com/marcustan-94/ddi)
 
 
 <h3 align="left">Languages and Tools:</h3>
